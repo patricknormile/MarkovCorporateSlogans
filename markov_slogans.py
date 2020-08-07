@@ -7,6 +7,12 @@ uses a markov chain to generate a random company slogan
 
 improvements: make a stop condition
 
+Ex: 
+    'the possibilities. gets built for company of choice'
+    'you get our best!'
+    'built, better source of urgency synthesizers'
+    'now how'
+
 @author: patno_000
 """
 #load training data
